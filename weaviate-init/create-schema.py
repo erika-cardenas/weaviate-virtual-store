@@ -24,7 +24,7 @@ schema = {
                 "dataType": ["text"],
                 "moduleConfig": {
                     "multi2vec-clip": {
-                        "skip": "True"
+                        "skip": True
                     }
                 },
                 "name": "description",
@@ -34,7 +34,7 @@ schema = {
                 "dataType": ["text"],
                 "moduleConfig": {
                     "multi2vec-clip": {
-                        "skip": "True"
+                        "skip": True
                     }
                 },
                 "name": "imagePath",
@@ -44,7 +44,7 @@ schema = {
                 "dataType": ["text"],
                 "moduleConfig": {
                     "multi2vec-clip": {
-                        "skip": "True"
+                        "skip": True
                     }
                 },
                 "name": "sku",
@@ -54,7 +54,7 @@ schema = {
                 "dataType": ["text"],
                 "moduleConfig": {
                     "multi2vec-clip": {
-                        "skip": "True"
+                        "skip": True
                     }
                 },
                 "name": "category",
